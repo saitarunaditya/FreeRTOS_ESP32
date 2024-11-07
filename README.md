@@ -68,3 +68,6 @@ The GPS data is read via UART using the `HardwareSerial` object (`gpsSerial`), a
 **Why It's Useful:**
 UART is a simple and efficient protocol for communication between the ESP32 and the GPS module. It allows real-time GPS data acquisition, which is essential for providing location-based alerts (such as sending a map link in an SMS when an object or water is detected).
 
+
+![WhatsApp Image 2024-11-07 at 14 34 18_f142337a](https://github.com/user-attachments/assets/c9b81d46-4412-4a9e-8dfa-6c062291d889)
+
