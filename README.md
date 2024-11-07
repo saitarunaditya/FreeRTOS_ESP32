@@ -71,3 +71,6 @@ UART is a simple and efficient protocol for communication between the ESP32 and 
 
 ![WhatsApp Image 2024-11-07 at 14 34 18_f142337a](https://github.com/user-attachments/assets/c9b81d46-4412-4a9e-8dfa-6c062291d889)
 
+
+
+![WhatsApp Image 2024-11-07 at 14 35 46_b1172623](https://github.com/user-attachments/assets/208ec820-78a9-4bae-9a7f-26f5c9509c5b)
